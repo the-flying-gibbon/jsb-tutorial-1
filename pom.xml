@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.tutorial</groupId>
 	<artifactId>mywebapp</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.1</version>
 	<name>mywebapp</name>
 	<description>Tutorial project for Spring Boot</description>
 	<url />
