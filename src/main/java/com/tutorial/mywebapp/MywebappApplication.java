@@ -15,7 +15,7 @@ public class MywebappApplication {
 	}
 	
 	@GetMapping("api/greeting")
-    public String hello(@RequestParam(value = "name", defaultValue = "World") String name) {
+    public String greet(@RequestParam(value = "name", defaultValue = "World") String name) {
       return "Hello "+ name +"!";
     }
 
